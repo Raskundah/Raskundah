@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ian!
-- 👀 I’m interested in audo editing and programming.
+- 👀 I’m interested in cybersecurity and programming.
 - 🌱 I’m currently studying my HND computer games development at fife cllege.
 - 💞️ I’m Currently not looking t collaborate.
 - 📫 You can email me at ianbarrie1992@gmail.com.
