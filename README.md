@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ian!
 - 👀 I’m interested in cybersecurity and programming.
-- 🌱 I’m currently studying my HND computer games development at fife cllege.
-- 💞️ I’m Currently not looking t collaborate.
+- 🌱 I’m currently studying Ethical Hacking at Abertay University.
+- 💞️ I’m Currently not looking to collaborate.
 - 📫 You can email me at ianbarrie1992@gmail.com.
 
 <!---
